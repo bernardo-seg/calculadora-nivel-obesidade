@@ -6,7 +6,7 @@ from sklearn.base import BaseEstimator, TransformerMixin
 
 # -------------------------------------------------------------------
 # Configuração da Página
-# -------------------------------------------------------------------
+# -_------------------------------------------------------------------
 st.set_page_config(
     page_title="Calculadora de obesidade",
     page_icon="🏋️‍♂️",
